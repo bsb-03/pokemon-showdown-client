@@ -20,7 +20,7 @@ Config.whitelist = [
 // address bar is `Config.routes.client`.
 Config.defaultserver = {
 	id: 'showdown',
-	host: 'play.b3nmod.online',
+	host: 'b3nmod.online',
 	port: 443,
 	httpport: 80,
 	altport: 80,
